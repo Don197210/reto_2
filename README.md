@@ -3,4 +3,4 @@ En este repositorio se evidencia el correcto funcionamiento de las distintas her
 ## Block de Notas
 Para ejecutarlo primero debemos copiar el codigo en el block de notas predetermidado de nuestro sistema operativo y guardarlo con el nombre de nuestra preferencia **NO OLVIDAR AGRGEGAR .PY AL MOMENTO DE GUARDAR**
 
-![imagen1](
+![imagen1](https://github.com/Don197210/reto_2/blob/main/imagen1.png)
